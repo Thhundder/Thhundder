@@ -1,0 +1,49 @@
+name: Update Projects in README
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - projects.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-projects
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run updater
+        env:
+          GH_OWNER: Thhundder
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/update_readme.py
+
+      - name: Commit changes (README)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: update projects section from projects.json [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
