@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "name": "Mini Git Tutorial",
+    "language": "Git",
+    "repo": "mini-git-tutorial"
+  }
+]
