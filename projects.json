@@ -13,5 +13,10 @@
     "name": "System Health Monitor",
     "language": "Shell",
     "repo": "system-health-monitor"
+  },
+  {
+    "name": "Shell Utilities Pack",
+    "language": "Shell",
+    "repo": "shell-utilities-pack"
   }
 ]
