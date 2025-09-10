@@ -3,5 +3,10 @@
     "name": "Mini Git Tutorial",
     "language": "Git",
     "repo": "mini-git-tutorial"
+  },
+  {
+    "name": "Dockerized Infrastructure",
+    "language": "Docker",
+    "repo": "dockerized-infrastructure"
   }
 ]
