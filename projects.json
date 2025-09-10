@@ -8,5 +8,10 @@
     "name": "Dockerized Infrastructure",
     "language": "Docker",
     "repo": "dockerized-infrastructure"
+  },
+  {
+    "name": "System Health Monitor",
+    "language": "Shell",
+    "repo": "system-health-monitor"
   }
 ]
