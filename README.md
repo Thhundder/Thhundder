@@ -26,7 +26,7 @@
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | <!-- PROJECTS:python:START --><!-- PROJECTS:python:END --> |
 | [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | <!-- PROJECTS:typescript:START --><!-- PROJECTS:typescript:END --> |
 | [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) | <!-- PROJECTS:shell:START --><!-- PROJECTS:shell:END --> |
-| [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/) | <!-- PROJECTS:docker:START --><!-- PROJECTS:docker:END --> |
+| [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/) | <!-- PROJECTS:docker:START -->[![Dockerized Infrastructure](https://img.shields.io/static/v1?label=&message=Dockerized%20Infrastructure&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Thhundder/dockerized-infrastructure)<!-- PROJECTS:docker:END --> |
 | [![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=FFFFFF)](https://git-scm.com/) | <!-- PROJECTS:git:START -->[![Mini Git Tutorial](https://img.shields.io/static/v1?label=&message=Mini%20Git%20Tutorial&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Thhundder/mini-git-tutorial)<!-- PROJECTS:git:END --> |
 
 
