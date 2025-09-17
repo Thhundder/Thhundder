@@ -18,5 +18,10 @@
     "name": "Shell Utilities Pack",
     "language": "Shell",
     "repo": "shell-utilities-pack"
+  },
+  {
+    "name": "Real-Time Chat (WebSockets)",
+    "language": "TypeScript",
+    "repo": "real-time-chat-websockets"
   }
 ]
