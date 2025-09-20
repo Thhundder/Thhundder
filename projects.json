@@ -28,5 +28,10 @@
     "name": "REST API with Express",
     "language": "TypeScript",
     "repo": "rest-api-express"
+  },
+  {
+    "name": "Monitoring Dashboard",
+    "language": "Python",
+    "repo": "monitoring-dashboard"
   }
 ]
