@@ -33,5 +33,10 @@
     "name": "Monitoring Dashboard",
     "language": "Python",
     "repo": "monitoring-dashboard"
+  },
+  {
+    "name": "Sentiment Analysis on IMDB with LSTM",
+    "language": "Python",
+    "repo": "sentiment-analysis-imdb-lstm"
   }
 ]
