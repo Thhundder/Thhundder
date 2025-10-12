@@ -31,11 +31,8 @@ GH_OWNER = os.getenv("GH_OWNER", "").strip() or "Thhundder"
 GH_PAT = os.getenv("GH_PAT", "").strip()
 
 # Language normalization: alias -> (DisplayName, marker_key)
+# Note: C and C++ are intentionally excluded from this mapping
 LANG_MAP = {
-    # C
-    "c": ("C", "C"),
-    "c++": ("C++", "cpp"),
-    "cpp": ("C++", "cpp"),
     "python": ("Python", "python"),
     "py": ("Python", "python"),
     "typescript": ("TypeScript", "typescript"),

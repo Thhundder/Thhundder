@@ -8,7 +8,7 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/-evan.morrealee@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:evan.morrealee@gmail.com)
 &nbsp;
-[![42 Rank](https://img.shields.io/badge/42%20Rank-1st-success?style=flat&logo=42&logoColor=white)](https://42.fr/)
+[![42 Rank](https://img.shields.io/badge/%20Rank-1st-success?style=flat&logo=42&logoColor=white)](https://42.fr/)
 
 
 
@@ -21,8 +21,6 @@
 
 | 💻 **Technologies** | 🚀 **Projects** |
 | - | - |
-| [![C](https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=C&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/C_(programming_language)) | <!-- PROJECTS:C:START -->[![Bloom Filter](https://img.shields.io/static/v1?label=&message=Bloom%20Filter&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Thhundder/bloom-filter)<!-- PROJECTS:C:END --> |
-| [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)](https://isocpp.org/) | <!-- PROJECTS:cpp:START --><!-- PROJECTS:cpp:END --> |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | <!-- PROJECTS:python:START -->[![Monitoring Dashboard](https://img.shields.io/static/v1?label=&message=Monitoring%20Dashboard&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Thhundder/monitoring-dashboard) [![Sentiment Analysis on IMDB with LSTM](https://img.shields.io/static/v1?label=&message=Sentiment%20Analysis%20on%20IMDB%20with%20LSTM&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Thhundder/sentiment-analysis-imdb-lstm)<!-- PROJECTS:python:END --> |
 | [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | <!-- PROJECTS:typescript:START -->[![Real-Time Chat (WebSockets)](https://img.shields.io/static/v1?label=&message=Real-Time%20Chat%20%28WebSockets%29&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Thhundder/real-time-chat-websockets) [![REST API with Express](https://img.shields.io/static/v1?label=&message=REST%20API%20with%20Express&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Thhundder/rest-api-express)<!-- PROJECTS:typescript:END --> |
 | [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) | <!-- PROJECTS:shell:START -->[![System Health Monitor](https://img.shields.io/static/v1?label=&message=System%20Health%20Monitor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Thhundder/system-health-monitor) [![Shell Utilities Pack](https://img.shields.io/static/v1?label=&message=Shell%20Utilities%20Pack&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Thhundder/shell-utilities-pack)<!-- PROJECTS:shell:END --> |
