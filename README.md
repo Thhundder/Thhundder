@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Thhundder/Thhundder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨🏻‍💻 Hi, I'm Evan
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/________)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/________/)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Software Developer
+
+Student at 42 Nice | Exploring different areas of computer science to better understand the fields that interest me the most.
+Motivated by learning, experimentation, and taking on new technical challenges.
+
+Currently developing solid programming fundamentals, mainly through C/C++ projects, while progressively exploring Artificial Intelligence.
+
+
+
+## Technical Skills
+
+**Languages**
+- C
+- C++
+- TypeScript
+
+**Frameworks / Libraries**
+- React
+- React Native
+- .NET
+
+**Tools**
+- Shell
+- Docker
+- Git
+
+
+
+## Currently Learning
+- Python
+- Artificial Intelligence & Machine Learning (introductory concepts)
